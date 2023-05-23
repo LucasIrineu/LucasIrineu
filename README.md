@@ -6,7 +6,7 @@
 - 🌱 Atualmente estudando Python e CSS
 - 📫 Você pode me contatar por email: lucasirineu119@gmail.com 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/lucas-irineu-57b805224/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-irineu-57b805224/)
 &nbsp;
 
 <b>Linguagens</b>:
