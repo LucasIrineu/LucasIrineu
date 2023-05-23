@@ -1,8 +1,5 @@
 ### Olá, eu sou o Lucas 👋
 
-<!--
-**LucasIrineu/LucasIrineu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 Meus projetos estão disponíveis nos meus repositórios, dê uma olhada! 
 - 🌱 Atualmente estudando Python
 - 📫 Pode me contatar por email: lucasirineu119@gmail.com
