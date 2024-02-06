@@ -3,7 +3,7 @@
 
 
 - 🔭 Meus projetos estão disponíveis nos meus repositórios, dê uma olhada! 
-- 🌱 Atualmente estudando Python e CSS
+- 🌱 Atualmente estudando Typescript e CSS
 - 📫 Você pode me contatar por email: lucasirineu119@gmail.com 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-irineu-57b805224/)
